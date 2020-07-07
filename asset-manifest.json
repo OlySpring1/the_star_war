@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the_star_war/static/css/main.5f361e03.chunk.css",
+    "main.js": "/the_star_war/static/js/main.892c1ff1.chunk.js",
+    "main.js.map": "/the_star_war/static/js/main.892c1ff1.chunk.js.map",
+    "runtime-main.js": "/the_star_war/static/js/runtime-main.c7f98f83.js",
+    "runtime-main.js.map": "/the_star_war/static/js/runtime-main.c7f98f83.js.map",
+    "static/js/2.a68c840a.chunk.js": "/the_star_war/static/js/2.a68c840a.chunk.js",
+    "static/js/2.a68c840a.chunk.js.map": "/the_star_war/static/js/2.a68c840a.chunk.js.map",
+    "index.html": "/the_star_war/index.html",
+    "precache-manifest.a8380d23a6ce72c5a084afa4d3e6a6f9.js": "/the_star_war/precache-manifest.a8380d23a6ce72c5a084afa4d3e6a6f9.js",
+    "service-worker.js": "/the_star_war/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/the_star_war/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a68c840a.chunk.js.LICENSE.txt": "/the_star_war/static/js/2.a68c840a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7f98f83.js",
+    "static/js/2.a68c840a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.892c1ff1.chunk.js"
+  ]
+}
